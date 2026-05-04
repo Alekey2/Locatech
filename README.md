@@ -123,4 +123,4 @@ Desenvolvido por **[Alekey2](https://github.com/Alekey2)**
 
 ## 📄 Licença
 
-Este projeto é de uso acadêmico — desenvolvido para fins educacionais no curso de **Análise e Desenvolvimento de Sistemas** da **FIAP**.
+Este projeto é de uso acadêmico — desenvolvido para fins educacionais no curso de **Pós-Graduação em Arquitetura e Desenvolvimento Java** da **FIAP**.
